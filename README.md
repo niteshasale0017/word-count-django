@@ -1,2 +1,3 @@
-# word-count-django
-this is app use word count convert uppercase and count word frequency, remove space that type little operation performed...
+# word count
+
+### You are write on notepad then they will count how many word you are typed.
